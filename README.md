@@ -1,2 +1,3 @@
-# rapid-recommendation-engine-rfnv
-Automated issue comment bot repository
+# Rapid Recommendation Engine Rfnv
+
+Automated issue comment bot repository.
